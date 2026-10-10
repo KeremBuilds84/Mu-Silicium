@@ -520,7 +520,7 @@
 
 <img align="right" src="Resources/Pictures/Samsung-Galaxy-Tab-A7-Lite.png" width="400" alt="Preview">
 
-**State:** Inactive <br>
+**State:** idfk <br>
 **Codename:** gta7litewifi
 
 **Contributors:** [KeremBuilds84](https://github.com/KeremBuilds84)
