@@ -524,7 +524,7 @@
 **State:** Inactive <br>
 **Codename:** stone
 
-**Contributors:** [Nikroks](https://github.com/N1kroks/)
+**Contributors:** [Nikroks](https://github.com/N1kroks/)z
 
 ### UEFI Status
 
@@ -620,6 +620,40 @@
 </details>
 
 </details>
+
+</details>
+
+<details>
+<summary><b><strong>MediaTek Helio P22T Devices</strong></b></summary>
+
+<br>
+
+<details>
+<summary><b><strong>Samsung Devices</strong></b></summary>
+
+
+## Samsung Galaxy Tab A7 Lite
+
+<img align="right" src="Resources/Pictures/Samsung-Galaxy-Tab-A7-Lite.png" width="400" alt="Preview">
+
+**State:** idfk <br>
+**Codename:** gta7litewifi
+
+**Contributors:** [KeremBuilds84]([https://github.com/N1kroks](https://github.com/KeremBuilds84)/)
+
+### UEFI Status
+
+| Feature            | Description    | State |
+|:-------------------|:---------------|:-----:|
+| Display            |                | ✅    |
+| Internal Storage   |                | ?     |
+| Side Buttons       |                | ?     |
+| USB Host Mode      |                | ?     |
+| USB Device Mode    |                | ?     |
+| USB Power Delivery |                | ?     |
+| SD Card            |                | ?     |
+| Windows Boot       |                | ?     |
+| Linux Boot         |                | ?     |
 
 </details>
 
