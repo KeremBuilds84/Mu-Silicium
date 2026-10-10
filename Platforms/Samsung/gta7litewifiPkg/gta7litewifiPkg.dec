@@ -1,0 +1,11 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x0001001c
+  PACKAGE_NAME                   = gta7litewifiPkg
+  PACKAGE_GUID                   = 3f18a284-ba91-11eb-bc87-9759c277bf27
+  PACKAGE_VERSION                = 0.1
+
+[Includes.common]
+  Include
+
+[Guids.common]
+  gGta7litewifiPkgTokenSpaceGuid = { 0x4f28b394, 0xca92, 0x11eb, { 0xbc, 0x87, 0x97, 0x59, 0xc2, 0x77, 0xbf, 0x27 } }
